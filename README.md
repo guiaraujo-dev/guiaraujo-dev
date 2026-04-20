@@ -4,11 +4,11 @@
 </p>
 
 ### Sobre Mim
-Baseado em **Cuiabá, MT**, foco no desenvolvimento de ecossistemas digitais modernos e automação de processos. Minha experiência abrange desde a criação de interfaces de alta performance até a gestão de infraestrutura Cloud e ambientes educacionais complexos.
+Foco no desenvolvimento de ecossistemas digitais modernos e automação de processos. Minha experiência abrange desde a criação de interfaces de alta performance até a gestão de infraestrutura Cloud e ambientes educacionais complexos.
 
 ---
 
-## 🚀 Atuação Profissional & Projetos
+## Atuação Profissional & Projetos
 * 🌐 **Arlo Tecnologia:** Fundador e editor do [Arlo Tecnologia](https://www.arlotecnologia.com.br), focado em análise técnica de hardware e software.
 * 🎓 **Moodle Expert:** Desenvolvimento de plugins, modelagem de dados para cursos e customização técnica de ambientes virtuais de aprendizagem.
 * 💻 **Desenvolvimento Web Moderno:** Criação de sites e aplicações de alta performance utilizando tecnologias modernas de frontend e headless CMS.
@@ -16,7 +16,7 @@ Baseado em **Cuiabá, MT**, foco no desenvolvimento de ecossistemas digitais mod
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 <p align="left">
   <a href="https://astro.build/"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -36,7 +36,7 @@ Baseado em **Cuiabá, MT**, foco no desenvolvimento de ecossistemas digitais mod
 
 ---
 
-## 📊 Relatório de Atividade & Performance
+##  Relatório de Atividade & Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guiaraujo-dev&show_icons=true&theme=radical&count_private=true" alt="Estatísticas" height="180em" />
@@ -49,7 +49,7 @@ Baseado em **Cuiabá, MT**, foco no desenvolvimento de ecossistemas digitais mod
 
 ---
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-mateus-araujo-bezerra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.arlotecnologia.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
