@@ -18,7 +18,7 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 
 ---
 
-## 🛠️ Stack Tecnológica
+##  Stack Tecnológica
 
 <p align="left">
   <a href="https://astro.build/"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" /></a>
