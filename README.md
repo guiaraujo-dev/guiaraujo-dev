@@ -9,12 +9,12 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 
 ---
 
-## 💼 Atuação Profissional & Projetos
+##  Atuação Profissional & Projetos
 
-* 🌐 **Arlo Tecnologia:** Fundador e editor do [Arlo Tecnologia](https://www.arlotecnologia.com.br), portal de hardware e software desenvolvido com **Astro** e **Directus**.
-* 🎓 **Moodle Architect:** Especialista em modelagem de dados acadêmicos, desenvolvimento de plugins e otimização de ambientes virtuais em larga escala.
-* 🤖 **Automação & APIs:** Construção de workflows escaláveis no **n8n**, integrando **Chatwoot**, **Evolution API** e **Typebot** para otimização operacional.
-* 🚀 **JAMstack & Headless:** Implementação de sites de alta performance com foco em SEO, segurança e escalabilidade.
+*  **Arlo Tecnologia:** Fundador e editor do [Arlo Tecnologia](https://www.arlotecnologia.com.br), portal de hardware e software desenvolvido com **Astro** e **Directus**.
+*  **Moodle Architect:** Especialista em modelagem de dados acadêmicos, desenvolvimento de plugins e otimização de ambientes virtuais em larga escala.
+*  **Automação & APIs:** Construção de workflows escaláveis no **n8n**, integrando **Chatwoot**, **Evolution API** e **Typebot** para otimização operacional.
+*  **JAMstack & Headless:** Implementação de sites de alta performance com foco em SEO, segurança e escalabilidade.
 
 ---
 
@@ -36,7 +36,7 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 
 ---
 
-## 📊 Relatório de Atividade
+##  Relatório de Atividade
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guiaraujo-dev&show_icons=true&theme=radical&count_private=true&title_color=BC52EE&icon_color=BC52EE" alt="Estatísticas" height="180em" />
@@ -45,7 +45,7 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 
 ---
 
-## 🔗 Conecte-se Comigo
+##  Conecte-se Comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/guilherme-mateus-araujo-bezerra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.arlotecnologia.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
