@@ -39,8 +39,8 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 ##  Relatório de Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiaraujo-dev&show_icons=true&theme=radical&count_private=true&title_color=BC52EE&icon_color=BC52EE" alt="Estatísticas" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiaraujo-dev&layout=compact&theme=radical&title_color=BC52EE" alt="Linguagens" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guiaraujo-dev&show_icons=true&theme=radical&count_private=true&title_color=BC52EE&icon_color=BC52EE&v=1" alt="Estatísticas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiaraujo-dev&layout=compact&theme=radical&title_color=BC52EE&v=1" alt="Linguagens" height="180em" />
 </p>
 
 ---
