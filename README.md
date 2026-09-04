@@ -15,7 +15,7 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 ## Atuação Profissional & Projetos
 
 - **Arlo Tecnologia** — Fundador e editor do [Arlo Tecnologia](https://www.arlotecnologia.com.br), portal de hardware e software desenvolvido com Astro.
-- **Moodle Architect** — Especialista em modelagem de dados acadêmicos, desenvolvimento de plugins e otimização de ambientes virtuais em larga escala.
+- **Moodle Architect** — Especialista em modelagem de dados acadêmicos, desenvolvimento de plugins e otimização de ambientes virtuais.
 - **Automação & APIs** — Construção de workflows escaláveis no n8n, integrando Chatwoot, Evolution API e Typebot para otimização operacional.
 - **JAMstack & Headless** — Implementação de sites de alta performance com foco em SEO, segurança e escalabilidade.
 
@@ -44,7 +44,13 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Linguagens por repositório" height="180em" />
+  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Linguagens por repositório" width="48%" />
+  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Linguagens mais utilizadas nos commits" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/3-stats.svg" alt="Estatísticas gerais" width="48%" />
+  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/4-productive-time.svg" alt="Horários de maior produtividade" width="48%" />
 </p>
 
 ---
