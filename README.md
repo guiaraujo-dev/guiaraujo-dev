@@ -40,11 +40,11 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 ## Relatório de Atividade
 
 <p align="center">
-  <img src="./profile-summary-cards-output/radical/1-profile-details.svg" alt="Detalhes do perfil" width="100%" />
+  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/0-profile-details.svg" alt="Detalhes do perfil" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-cards-output/radical/2-repos-per-language.svg" alt="Linguagens por repositório" height="180em" />
+  <img src="https://raw.githubusercontent.com/guiaraujo-dev/guiaraujo-dev/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Linguagens por repositório" height="180em" />
 </p>
 
 ---
