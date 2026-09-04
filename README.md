@@ -14,7 +14,7 @@ Desenvolvedor focado na criação de ecossistemas digitais modernos e na automa�
 
 ## Atuação Profissional & Projetos
 
-- **Arlo Tecnologia** — Fundador e editor do [Arlo Tecnologia](https://www.arlotecnologia.com.br), portal de hardware e software desenvolvido com Astro e Directus.
+- **Arlo Tecnologia** — Fundador e editor do [Arlo Tecnologia](https://www.arlotecnologia.com.br), portal de hardware e software desenvolvido com Astro.
 - **Moodle Architect** — Especialista em modelagem de dados acadêmicos, desenvolvimento de plugins e otimização de ambientes virtuais em larga escala.
 - **Automação & APIs** — Construção de workflows escaláveis no n8n, integrando Chatwoot, Evolution API e Typebot para otimização operacional.
 - **JAMstack & Headless** — Implementação de sites de alta performance com foco em SEO, segurança e escalabilidade.
